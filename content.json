@@ -1,0 +1,50 @@
+[
+  {
+    "categoria": "História",
+    "texto": "A Revolução Industrial começou na Inglaterra por volta de 1760, quando máquinas a vapor passaram a substituir o trabalho manual e animal na produção têxtil. Isso disparou um êxodo do campo pras cidades, criou a classe operária urbana e mudou pra sempre a relação entre trabalho, tempo e capital. Em poucas décadas, o mesmo processo se espalhou pra Europa continental e América do Norte, dando origem à sociedade industrial moderna."
+  },
+  {
+    "categoria": "Ciência",
+    "texto": "A fotossíntese é o processo pelo qual plantas, algas e algumas bactérias convertem luz solar, água e gás carbônico em glicose e oxigênio. Acontece principalmente nas folhas, dentro de estruturas chamadas cloroplastos, que contêm a clorofila. Sem esse processo, praticamente toda a vida na Terra ficaria sem oxigênio pra respirar e sem energia química na base da cadeia alimentar."
+  },
+  {
+    "categoria": "Arte",
+    "texto": "O Impressionismo surgiu na França por volta de 1870, quando pintores como Monet, Renoir e Degas passaram a pintar ao ar livre, buscando capturar a luz e o momento fugaz em vez de retratar cenas com precisão fotográfica. O nome veio de forma irônica: um crítico zombou do quadro Impressão, Sol Nascente, de Monet, achando que parecia um esboço inacabado. O movimento acabou revolucionando a pintura ocidental."
+  },
+  {
+    "categoria": "Cinema",
+    "texto": "Os irmãos Auguste e Louis Lumière são considerados os pais do cinema. Em 1895, em Paris, eles fizeram a primeira exibição pública paga de filmes usando o cinematógrafo, aparelho que filmava, revelava e projetava imagens em movimento. Um dos filmes, mostrando um trem chegando a uma estação, teria até assustado parte da plateia, que nunca tinha visto algo assim."
+  },
+  {
+    "categoria": "Geografia",
+    "texto": "A crosta terrestre é dividida em placas tectônicas, gigantescos blocos rochosos que flutuam sobre o manto e se movem poucos centímetros por ano. É esse movimento lento que forma cordilheiras quando duas placas colidem, causa terremotos e vulcões nas bordas das placas, e até explica por que a América do Sul e a África parecem duas peças de quebra-cabeça que se encaixam."
+  },
+  {
+    "categoria": "Filosofia",
+    "texto": "Na Alegoria da Caverna, Platão descreve prisioneiros acorrentados desde a infância dentro de uma caverna, vendo apenas sombras projetadas na parede e achando que aquela é toda a realidade. Quando um deles é libertado e vê o mundo real lá fora, percebe que viveu enganado, mas, ao voltar pra contar aos outros, é ridicularizado. A alegoria é uma reflexão sobre conhecimento, ignorância e a resistência humana a mudar de ideia."
+  },
+  {
+    "categoria": "Ciência",
+    "texto": "Um buraco negro é uma região do espaço com gravidade tão intensa que nem a luz consegue escapar dela, daí o nome. Eles se formam, entre outras causas, quando estrelas muito massivas colapsam sob o próprio peso ao fim da vida. Em 2019, cientistas divulgaram a primeira imagem real de um buraco negro, capturada por uma rede de telescópios ao redor do mundo trabalhando em conjunto."
+  },
+  {
+    "categoria": "História",
+    "texto": "A Rota da Seda não era uma estrada única, mas uma rede de rotas comerciais que ligava a China ao Mediterrâneo, atravessando Ásia Central, Oriente Médio e partes da Europa. Por mais de mil anos, ela não transportou só seda, mas também especiarias, papel, pólvora e ideias, inclusive religiões como o budismo, que se espalhou pela Ásia justamente seguindo essas rotas comerciais."
+  },
+  {
+    "categoria": "Literatura",
+    "texto": "O realismo mágico é um estilo literário em que elementos fantásticos aparecem misturados à vida cotidiana, sem serem tratados como algo extraordinário pelos personagens. Gabriel García Márquez, em Cem Anos de Solidão, é o exemplo mais famoso: chuvas de flores, pessoas que sobem aos céus e fantasmas convivem normalmente com a rotina de uma família ao longo de gerações, numa cidade fictícia chamada Macondo."
+  },
+  {
+    "categoria": "Música",
+    "texto": "O sistema tonal ocidental organiza a música em torno de uma nota central, a tônica, criando uma sensação de casa pra onde a melodia sempre parece querer voltar. Escalas maiores soam geralmente mais alegres e escalas menores mais melancólicas, por causa da distância entre as notas. Esse sistema, consolidado a partir do período Barroco, ainda é a base da maior parte da música pop, rock e sertaneja que tocam no rádio hoje."
+  },
+  {
+    "categoria": "Biologia",
+    "texto": "No século dezenove, o monge austríaco Gregor Mendel cruzou milhares de ervilhas no jardim do mosteiro e percebeu padrões na herança de características como cor e formato das sementes. Ele concluiu que cada característica é determinada por fatores, hoje chamados genes, herdados dos pais, alguns dominantes e outros recessivos. Esse trabalho, praticamente ignorado em vida, se tornou décadas depois a base da genética moderna."
+  },
+  {
+    "categoria": "Astronomia",
+    "texto": "Um exoplaneta é qualquer planeta que orbita uma estrela fora do nosso Sistema Solar. O primeiro foi confirmado apenas em 1995, e desde então já foram identificados mais de cinco mil. A maioria é descoberta indiretamente: cientistas observam uma leve queda no brilho de uma estrela quando um planeta passa na frente dela, já que a maioria fica longe e pequena demais pra ser fotografada diretamente."
+  }
+]
