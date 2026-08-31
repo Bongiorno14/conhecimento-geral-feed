@@ -1,0 +1,32 @@
+name: Atualizar cápsula diária (Conhecimento Geral)
+
+on:
+  schedule:
+    # 08:00 UTC = 05:00 America/Sao_Paulo (roda cedo, antes da rotina da manhã).
+    # Ajuste se seu horário de verão/fuso mudar.
+    - cron: '0 8 * * *'
+  workflow_dispatch: {}  # permite rodar manualmente pela aba Actions do GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Gerar feed.json de hoje
+        run: python build_feed.py
+
+      - name: Commitar e enviar mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.json state.json
+          git diff --quiet --cached || git commit -m "Atualiza cápsula diária ($(date -u +%Y-%m-%d))"
+          git push
