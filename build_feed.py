@@ -21,7 +21,7 @@ STATE_PATH = BASE_DIR / "state.json"
 FEED_PATH = BASE_DIR / "docs" / "feed.json"
 
 # Troque pela URL real do seu GitHub Pages depois de criar o repositório.
-REDIRECTION_URL = "https://SEU-USUARIO.github.io/conhecimento-geral-feed/"
+REDIRECTION_URL = "https://bongiorno14.github.io/conhecimento-geral-feed/"
 
 # Namespace fixo só pra gerar UUIDs estáveis e reproduzíveis por índice de cápsula.
 UUID_NAMESPACE = uuid.UUID("6f1b1a1a-0000-4000-8000-000000000000")
